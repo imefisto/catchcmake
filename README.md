@@ -1,7 +1,7 @@
 # catchcmake
 Minimal example of catch under cmake
 
-This project shows a very simple example of the use of Catch with CMake.
+This project shows a very simple (but fully functional) example of the use of [Catch](https://github.com/philsquared/Catch) with [CMake](https://cmake.org).
 
 To build:
 
