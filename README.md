@@ -11,4 +11,6 @@ To build:
 4. make
 5. make test (or ./CatchCMake\_Test)
 
-# Suggestions ? [@imefisto](https://twitter.com/imefisto)
+# Suggestions ? 
+
+Send me your suggestions at [@imefisto](https://twitter.com/imefisto)
