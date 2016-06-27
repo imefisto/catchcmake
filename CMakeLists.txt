@@ -45,5 +45,4 @@ endif()
 
 add_executable(CatchCMake_Test ${TEST_SOURCES})
 target_link_libraries(CatchCMake_Test Catch UserModule)
-add_test(NAME TestBase COMMAND CatchCMake_Test)
 
